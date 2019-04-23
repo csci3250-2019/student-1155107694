@@ -19,3 +19,5 @@
 - [x] Milestone 1
 - [ ] Milestone 2
 - [x] Milestone 3
+
+![git](git.png)
